@@ -1,2 +1,2 @@
 # JiraNode
-A consumer of Jira's Node API
+A consumer of Jira's Rest API
