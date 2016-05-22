@@ -1,0 +1,32 @@
+{
+  "name": "jiranode",
+  "version": "0.1.0",
+  "description": "A consumer of Jira's REST API",
+  "main": "JiraAPI.js",
+  "scripts": {
+    "test": "printMsg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasirbilloo/JiraNode.git"
+  },
+  "keywords": [
+    "Nasir",
+    "Billoo",
+    "Nasir Billoo",
+    "Jira",
+    "Jira Node API",
+    "Jira Node"
+  ],
+  "author": "Nasir Billoo <nasir.billoo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasirbilloo/JiraNode/issues"
+  },
+  "homepage": "https://github.com/nasirbilloo/JiraNode#readme",
+  "dependencies": {
+    "async": "*",
+    "request": "*",
+    "winston": "^2.2.x"
+  }  
+}
